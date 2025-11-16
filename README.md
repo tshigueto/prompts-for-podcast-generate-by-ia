@@ -11,9 +11,12 @@ Projeto Podcast Gerado por I.A.s
 <br>
 <br>✨ Como foi feito ?
 <br>Roteiro gerado via chatgpt
-<br>[Audio gerado pela elevenLabs](ElevenLabs_Text_to_Speech_audio.mp3)
-<br>Midjourney Para gerar capas
-<br>[Capcut para tratar aúdio e adicionar sons de fundo](audio_editado.mp3)
+
+[Audio gerado pela ElevenLabs](ElevenLabs_Text_to_Speech_audio.mp3)
+
+Midjourney Para gerar capas
+
+[Capcut para tratar aúdio e adicionar sons de fundo](audio_editado.mp3)
 <br>
 <br>📚 Materiais
 <br>[Notion Template](https://www.notion.so/Roterista-2adf243aec358198b0f3d3a76a4f50f3)
