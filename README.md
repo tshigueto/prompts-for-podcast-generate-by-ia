@@ -1,4 +1,4 @@
-![Logotipo do Projeto](images/logo.png)
+![Logotipo do Projeto](logo.png)
 
 Projeto Podcast Gerado por I.A.s
 
