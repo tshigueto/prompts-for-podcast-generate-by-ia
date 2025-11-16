@@ -1,6 +1,4 @@
-![Logotipo do Projeto](logo.png)
-<img src="logo.png" width="400" height="auto">
-
+<img src="logo.png" width="400" height="auto" alt="Logotipo do Projeto">
 Projeto Podcast Gerado por I.A.s
 <br>
 <br>Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
