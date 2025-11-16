@@ -1,5 +1,5 @@
 ![Logotipo do Projeto](logo.png)
-<img src="logo.png" width="100" height="auto" alt="Logotipo do Projeto">
+<img src="logo.png" width="400" height="auto">
 
 Projeto Podcast Gerado por I.A.s
 <br>
